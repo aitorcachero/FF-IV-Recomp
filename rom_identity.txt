@@ -1,0 +1,8 @@
+display_name    = Final Fantasy IV
+rom_file        = Final Fantasy IV (ESP).sfc
+expected_crc32  = 788f7636
+expected_sha256 = 5a5fe2ad2fa32815bc17bfe54eed333fe2d26c4f3e79101d01a790b535ca2477
+rom_size        = 1572864
+mapping         = lorom
+region          = USA
+game_id         = snesrecomp-788f7636
